@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué estructura indica el número 4?",
+    "respuesta_correcta": "fosa infraespinosa",
+    "categoria": "detalles anatómicos",
+    "imagen": "public/images/slide_1_img_1.png"
+  },
+  {
+    "id": 2,
+    "pregunta": "animal al que pertenece el hueso de la imagen",
+    "respuesta_correcta": "caballo",
+    "categoria": "anatomía comparada",
+    "imagen": "public/images/slide_2_img_2.png"
+  },
+  {
+    "id": 3,
+    "pregunta": "Cara que se observa",
+    "respuesta_correcta": "lateral",
+    "categoria": "posicionamiento",
+    "imagen": "public/images/slide_3_img_3.png"
+  },
+  {
+    "id": 4,
+    "pregunta": "animal al que pertenece el hueso de la imagen",
+    "respuesta_correcta": "vaca",
+    "categoria": "anatomía comparada",
+    "imagen": "public/images/slide_4_img_4.png"
+  },
+  {
+    "id": 5,
+    "pregunta": "Cara que se observa",
+    "respuesta_correcta": "lateral",
+    "categoria": "posicionamiento",
+    "imagen": "public/images/slide_5_img_5.png"
+  }
+]
